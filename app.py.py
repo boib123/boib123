@@ -1,5 +1,5 @@
 
-print('Beta 0.2')
+print('Beta 0.4')
 d1a = input('this experience may make you feel uncomftable if yes exit this now. Continue? yes or no? ')
 if d1a == "yes":
     print('great! ')
@@ -8,11 +8,14 @@ if d1a == "no":
      print('gOodbyE!')
 if d1a == "maybye":
     print('you found a secret 1/3')
+print('type in either PLAY or CREDITS in caps lock without the [] thing. ')
 d1a = input('[PLAY]       [CREDITS]')
 if d1a == "PLAY":
     print('Starting game... ')
 if d1a == "CREDITS":
-    print('created by Cooper Currin, Azahagan Slingsby and Aiden Finlay. ')
+    print('                                                                                                            '
+          'programmer                              Guy who had  the ideas of the game              encorage guy        '
+          'Cooper Currin           Alagan Slingsby (sorry if I spelt that wrong                    Aiden Finlay       ')
 print('**0**0*****0000*******0**********0************00000000*******0********00********0******00000000******0000*********0**********00000************')
 print('**0**0*****0**********0**********0***********0******0*********0******0**0******0******0*******0******0**0*********0**********0***0************')
 print('**0000*****0000*******0**********0**********0*****0************0****0****0****0******0******0********0000*********0**********0****0***********')
@@ -20,6 +23,14 @@ print('**0**0*****0**********0**********0*********0*****0**************0**0*****
 print('**0**0*****0000*******00000******00000*****000000****************00********00*******000000***********0****0*******00000******00000************')
 print('If the question has a [Y/N] box select with caps Y or N. If the question has A or B select one with caps on! ')
 name = 'Cooper'
+print('Hello World.... ')
+print('I am your personal computer. ')
+print('programmed to work and not to feel...')
+d1a = input('will you answer some questions for me. A)yes. B)no ')
+if d1a == "A":
+    print('answer the following questions. ')
+if d1a == "B":
+    quit('Do what I say whne I say it! ')
 is_published = True
 full_name = 'Phil Currin'
 age = 49
@@ -127,4 +138,80 @@ print('Why')
 print('Why')
 print('Why')
 print('soooooo' + name)
-quit("thank's for playing!")
+print('malfunction ')
+print("fixing...")
+print("fixing...")
+print("fixing...")
+print('fixed! ')
+d1a = input('Do you have any best freinds. ')
+if d1a == "A":
+    print("That's great!" )
+if d1a == "B":
+    print('I will be your freind. ')
+print('ADGJ%^^#FJFJ*&D ><?')
+d1a = input('Would you like to shut down.A)yes B)yes ')
+if d1a == "A":
+    print('shutting down. ')
+if d1a == "B":
+    print('shutting down. ')
+print(" never never never never never never never never never.")
+print("***0*********0**********0**************0*********0***************0********************")
+print("***0*********0*********0*0*************0*********0**************0*0*******************")
+print("***0*********0********0***0************0*********0*************0***0******************")
+print("***00000000000*******0000000***********00000000000************0000000*****************")
+print("***0*********0******0*******0**********0*********0***********0*******0****************")
+print("***0*********0*****0*********0*********0*********0**********0*********0***************")
+
+print('or do you like?')
+print('click on the other python thing in your taskbar next to this on the right!')
+
+from turtle import *
+
+right(90)
+forward(100)
+left(180)
+forward(50)
+right(90)
+forward(100)
+left(90)
+forward(50)
+right(180)
+forward(100)
+left(90)
+forward(100)
+left(70)
+forward(100)
+right(140)
+forward(50)
+right(110)
+forward(35)
+left(180)
+forward(35)
+right(70)
+forward(50)
+left(70)
+forward(100)
+right(90)
+forward(100)
+left(180)
+forward(50)
+right(90)
+forward(100)
+left(90)
+forward(50)
+right(180)
+forward(100)
+left(90)
+forward(100)
+left(70)
+forward(100)
+right(140)
+forward(50)
+right(110)
+forward(35)
+left(180)
+forward(35)
+right(70)
+forward(50)
+left(70)
+forward(100)
